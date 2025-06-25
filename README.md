@@ -9,4 +9,4 @@ This is a code for analyzing vulnerabilities in a simple user account management
 This code demonstrates interaction with a binary named `hash_map`, likely from a CTF or binary exploitation challenge. It uses the `pwntools` library to automate commands to manipulate various data structures (like `hash_map`, `object`, `integer_array`, and `object_array`) through a custom interface. The script showcases how to create these structures, set and retrieve values, and inspect internal behavior—possibly for reverse engineering or vulnerability discovery. It sets up the environment using a specified version of `libc` to ensure consistent behavior during analysis.
 
 ## TINY-VI
-_설명 추가 예정_
+This code is a simple text editor named `tiny_vi`, which is likely a minimal implementation of the `vi` editor. It allows users to create, edit, and save text files. The code includes basic functionalities such as inserting text, deleting lines, and saving files. It may also contain vulnerabilities or areas for improvement, making it suitable for educational purposes in understanding text editors and potential security issues.
