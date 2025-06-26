@@ -8,7 +8,7 @@
 시스템 해킹 및 취약점 분석 실습을 위해 작성되었습니다.
 
 ## HASH-MAP
-_설명 추가 예정_
+This code demonstrates interaction with a binary named `hash_map`, likely from a CTF or binary exploitation challenge. It uses the `pwntools` library to automate commands to manipulate various data structures (like `hash_map`, `object`, `integer_array`, and `object_array`) through a custom interface. The script showcases how to create these structures, set and retrieve values, and inspect internal behavior—possibly for reverse engineering or vulnerability discovery. It sets up the environment using a specified version of `libc` to ensure consistent behavior during analysis.
 
 ## TINY-VI
 _설명 추가 예정_
